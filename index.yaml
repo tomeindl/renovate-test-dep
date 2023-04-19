@@ -9,6 +9,6 @@ entries:
     name: test-chart
     type: application
     urls:
-    - tomeindl.github.io/renovate-test-dep/test-chart-0.1.0.tgz
+    - https://tomeindl.github.io/renovate-test-dep/test-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2023-04-19T11:54:08.659650809+02:00"
