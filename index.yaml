@@ -3,7 +3,17 @@ entries:
   test-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-19T16:37:43.629644835+02:00"
+    created: "2023-04-19T16:53:25.048919528+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 41d61406cd4fec797b725a2c7cdbeac6e1da07e5afa3c31a1b164c884231ecfe
+    name: test-chart
+    type: application
+    urls:
+    - https://tomeindl.github.io/renovate-test-dep/test-chart-1.4.0.tgz
+    version: 1.4.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-19T16:53:25.04856566+02:00"
     description: A Helm chart for Kubernetes
     digest: ea0d56df982790dab1799f03e21bdf4c894d6f60e26ce8495e8d5916b549da88
     name: test-chart
@@ -13,7 +23,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-19T16:37:43.629306766+02:00"
+    created: "2023-04-19T16:53:25.048237019+02:00"
     description: A Helm chart for Kubernetes
     digest: e0aeb7d71482a3ee5e53e92c3ef762873327922cae2a44b7a03e9667a5401ff1
     name: test-chart
@@ -23,7 +33,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-19T16:37:43.628998836+02:00"
+    created: "2023-04-19T16:53:25.04787229+02:00"
     description: A Helm chart for Kubernetes
     digest: 10b6bbbc574feba50748c2506a7a52789122785da406a7b02da4065ed4dabbe3
     name: test-chart
@@ -33,7 +43,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-19T16:37:43.628652316+02:00"
+    created: "2023-04-19T16:53:25.04755153+02:00"
     description: A Helm chart for Kubernetes
     digest: c0ecbd1ea4a9a1786829756c8f1ff984cc59fba88e9f4079b7a235893c5b9a0b
     name: test-chart
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://tomeindl.github.io/renovate-test-dep/test-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-19T16:37:43.62824451+02:00"
+generated: "2023-04-19T16:53:25.047123689+02:00"
