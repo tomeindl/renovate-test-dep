@@ -3,22 +3,32 @@ entries:
   test-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-19T12:22:56.793516447+02:00"
+    created: "2023-04-19T16:33:06.378878393+02:00"
     description: A Helm chart for Kubernetes
-    digest: 011aa8147a0306ce060fe429557be4a9450674e6ab9bb3659f050959b11ea315
+    digest: e0aeb7d71482a3ee5e53e92c3ef762873327922cae2a44b7a03e9667a5401ff1
     name: test-chart
     type: application
     urls:
-    - tomeindl.github.io/renovate-test-dep/test-chart-0.2.0.tgz
+    - https://tomeindl.github.io/renovate-test-dep/test-chart-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-19T16:33:06.37845707+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 10b6bbbc574feba50748c2506a7a52789122785da406a7b02da4065ed4dabbe3
+    name: test-chart
+    type: application
+    urls:
+    - https://tomeindl.github.io/renovate-test-dep/test-chart-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-19T12:22:56.793208841+02:00"
+    created: "2023-04-19T16:33:06.378066382+02:00"
     description: A Helm chart for Kubernetes
     digest: c0ecbd1ea4a9a1786829756c8f1ff984cc59fba88e9f4079b7a235893c5b9a0b
     name: test-chart
     type: application
     urls:
-    - tomeindl.github.io/renovate-test-dep/test-chart-0.1.0.tgz
+    - https://tomeindl.github.io/renovate-test-dep/test-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-19T12:22:56.79269213+02:00"
+generated: "2023-04-19T16:33:06.377528097+02:00"
